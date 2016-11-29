@@ -1,0 +1,3 @@
+/HelloWorld=com.briup.servlet.HelloWorldServlet
+/Login=com.briup.servlet.LoginServlet
+/MyTest=com.briup.servlet.MyTest
